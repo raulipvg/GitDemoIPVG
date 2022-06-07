@@ -1,0 +1,7 @@
+C:\Users\Alumnos\source\repos\palGit\palGit\bin\Debug\palGit.exe.config
+C:\Users\Alumnos\source\repos\palGit\palGit\bin\Debug\palGit.exe
+C:\Users\Alumnos\source\repos\palGit\palGit\bin\Debug\palGit.pdb
+C:\Users\Alumnos\source\repos\palGit\palGit\obj\Debug\palGit.csprojAssemblyReference.cache
+C:\Users\Alumnos\source\repos\palGit\palGit\obj\Debug\palGit.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\palGit\palGit\obj\Debug\palGit.exe
+C:\Users\Alumnos\source\repos\palGit\palGit\obj\Debug\palGit.pdb
